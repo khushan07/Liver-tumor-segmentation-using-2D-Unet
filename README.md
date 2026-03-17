@@ -136,7 +136,6 @@ Additional metrics such as the following are important for a more comprehensive 
 ├── 01_preprocessing_msd_to_npy_v2.ipynb
 ├── 02_train_unet_from_cache_v2.ipynb
 ├── 03_test_inference.ipynb
-├── models/
 ├── outputs/
 ├── data/
 └── README.md
